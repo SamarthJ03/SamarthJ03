@@ -50,8 +50,9 @@
 ## 📌 What I’m Looking For
 
 - Software Development (SDE) roles  
-- ML / Applied ML roles  
-- Internship & full-time opportunities  
+- ML / Applied ML roles
+- AI Developer Roles
+- Full-time opportunities  
 - Impact-driven engineering work  
 
 ---
