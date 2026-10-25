@@ -4,7 +4,7 @@
 
 ---
 
-🎓 Final-year B.Tech student at **IIT (BHU), Varanasi**  
+🎓 AI Developer at **Deutsche Bank**
 💻 Strong focus on **Software Development, Algorithms, and Applied Machine Learning**  
 🏆 Competitive programming enthusiast (1000+ problems across LeetCode & Codeforces)  
 🚀 Experience building and working with **production-grade systems**  
